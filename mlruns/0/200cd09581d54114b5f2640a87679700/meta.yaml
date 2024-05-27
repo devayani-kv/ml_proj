@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Devayani%20K/ml_proj/mlruns/0/200cd09581d54114b5f2640a87679700/artifacts
+end_time: 1716791416467
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 200cd09581d54114b5f2640a87679700
+run_name: learned-crab-423
+run_uuid: 200cd09581d54114b5f2640a87679700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716791411441
+status: 3
+tags: []
+user_id: Devayani K

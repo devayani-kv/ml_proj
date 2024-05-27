@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Devayani%20K/ml_proj/mlruns/0/a88538258cfb47e183dce2c5b118402a/artifacts
+end_time: 1716791323079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a88538258cfb47e183dce2c5b118402a
+run_name: casual-dolphin-418
+run_uuid: a88538258cfb47e183dce2c5b118402a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716791317417
+status: 3
+tags: []
+user_id: Devayani K

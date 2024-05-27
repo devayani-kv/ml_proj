@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Devayani%20K/ml_proj/mlruns/0/ae7b23f3c9124039bc833d5c81f9c234/artifacts
+end_time: 1716730519271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae7b23f3c9124039bc833d5c81f9c234
+run_name: lyrical-gnat-920
+run_uuid: ae7b23f3c9124039bc833d5c81f9c234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716730509241
+status: 3
+tags: []
+user_id: Devayani K

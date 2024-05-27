@@ -1,14 +1,9 @@
-pandas 
-mlflow
-numpy
-scikit-learn
-matplotlib
 python-box[all]~=7.0
 pyYAML
-tqdm
-ensure
 joblib
-types-PyYAML
+ensure
+pandas
+scikit-learn
+mlflow
 Flask
-Flask-Cors
 -e .
